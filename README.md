@@ -1,3 +1,3 @@
 # Eyes
 ## Exercise on eyes
-<img src= "oneeye.png" width='300'/>
+<img src= "twoeyes.png" width='300'/>
